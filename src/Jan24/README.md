@@ -1,8 +1,8 @@
-# Jan 24 -
+# Jan 24 - Ice Cream Sales Tracker
 
 ## Instructions
 
-Create a program for a n ice cream store that collects weekly sales data and compares sales figures by month and determines the months with the highest and lowest sales.
+Create a program for an ice cream store that collects weekly sales data and compares sales figures by month and determines the months with the highest and lowest sales.
 
 ## Rules
 
